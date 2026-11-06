@@ -22,9 +22,8 @@ My analysis revealed two entirely distinct customer profiles:
    * Trip volume spikes significantly on weekends (Saturday & Sunday).
    * Average ride duration is drastically longer (70–100+ minutes).
 
-*(Embed your total volume and average duration charts here)*
-`![Total Rides by Day](link_to_your_first_chart_image.png)`
-`![Average Ride Duration](link_to_your_second_chart_image.png)`
+![Total Rides by Day](Total%20Rides%20by%20Day%20of%20the%20Week.png)
+![Average Ride Duration](Average%20Ride%20Duration%20by%20Day.png)
 
 ## 🚀 Strategic Recommendations
 Based on the data, I propose the following targeted marketing initiatives to increase annual membership conversions:
